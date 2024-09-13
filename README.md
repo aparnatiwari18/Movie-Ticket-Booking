@@ -123,4 +123,4 @@ The suggested application allows users to reserve a movie from a theatre for a s
 
 #### How can I see admin panel ?
 
-\*\* Admin panel is not accessible for everyone, if someone want to take a look on admin panel implementation he/she needs admin credentials, for that reach me on [pateluttam171210@gmail.com](mailto:pateluttam171210@gmail.com), I'll share.
+\*\* Admin panel is not accessible for everyone, if someone want to take a look on admin panel implementation he/she needs admin credentials, for that reach me on [aparnatiwari0907@gmail.com](mailto:aparnatiwari0907@gmail.com), I'll share.
